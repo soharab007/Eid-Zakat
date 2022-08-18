@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-image: url(images/Rectangle\ 1.png);
+    background-size: cover;
+    padding-top: 200px;
+    padding-left: 200px;
+    padding-bottom: 220px;
+    color: white;
+}
+header h1{
+    font-size: 50px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 55, 55),rgb(255, 0, 0));
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+.side{
+    display: flex;
+    width: 100%;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+}
+.two-side{
+    width: 50%;
+    padding: 0 50px;
+}
+.two-side img{
+    width: 456px;
+    height: 477px;
+}
+.write{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.write h1{
+    font-size: 40px;
+    
+}
+.second-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 102, 255),rgb(142, 185, 214));
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+}
+.width{
+    display: flex;
+    width: 100%;
+    margin-bottom: 60px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 456px;
+    height: 477px;
+    padding-left: 150px;
+}
+.third-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(78, 158, 223),rgb(59, 241, 165));
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+}
+.svg{
+    display: flex;
+    margin-top: 50px;
+    width: 100%;
+
+    
+}
+.direct-help{
+    display: flex;
+    padding: 5px;
+    background-color: rgba(255, 192, 203, 0.171);
+    border-radius: 8px;
+    
+    margin: 0 70px;
+    width: 40%;
+
+}
+.sub-help{
+    padding: 5px;
+}
+.picture{
+    margin-top: 100px;
+    display: flex;
+    width: 100%;
+}
+.sub-pic{
+    width: 30%;
+    padding-left: 50px;
+}
+.last-part{
+    margin-top: 100px;
+}
+.apple{
+    display: flex;
+    width: 100%;
+}
+.giving{
+    margin-top: 100px;
+    width: 30%;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    border:1px solid grey;
+    margin-left: 35px;
+    margin-bottom: 100px;
+}
+.giving img{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.giving h3{
+    padding: 5px;
+}
+.giving p{
+    padding: 5px;
+}
+.forth-button{
+    padding-bottom: 30px;
+    padding-left: 10px;
+    color: red;
+    font-size: 20px;
+}
+footer{
+    padding: 50px;
+    background-color: rgb(24, 21, 21);
+    color: White;
+    text-align: center;
+}
+footer h2{
+    font-family: "lobster";
+    color: orange;
+}
+
+
+
